@@ -1,5 +1,7 @@
 # Magazine Sales App
 
+![Screenshot](https://github.com/onepiece-coding/Ventes-De-Magazine/blob/main/frontend/public/images/app-screenshoot.png)
+
 This project is a React-based Magazine Sales application built using Redux Toolkit, React-Redux, React-Bootstrap, Bootstrap, and Chart.js. It is designed to manage and display magazine sales data, including categories, products, monthly sales evolution, and revenue distribution.
 
 ## Features
@@ -51,10 +53,9 @@ To get started with this project, follow these steps:
    npm install
 
    npm run dev
-   
 ```
 
-2. ** Open your browser and navigate to http://localhost:3000 to view the app**
+2. ** Open your browser and navigate to http://localhost:5173/ to view the app**
 
 ## Watch the Tutorial Video
 
