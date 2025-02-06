@@ -19,7 +19,7 @@ const Loading = ({ status, error, children, type }) => {
   }
 
   if (status === "failed") {
-    return <div className={styles.categoriesError}>{error}</div>;
+    return <div className={styles.error}>{error}</div>;
   }
 
   return children;
