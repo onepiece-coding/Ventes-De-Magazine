@@ -57,10 +57,6 @@ To get started with this project, follow these steps:
 
 2. ** Open your browser and navigate to http://localhost:5173/ to view the app**
 
-## Watch the Tutorial Video
-
-Learn how to build this project step-by-step by watching the tutorial on the OnePiece Coding YouTube channel: [Video Link](https://www.youtube.com/watch?v=ueVzHqAwkbI)
-
 ## Connect with Me
 
 - YouTube: [OnePiece Coding](https://www.youtube.com/@OnePieceCoding)
